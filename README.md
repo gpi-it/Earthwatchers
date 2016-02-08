@@ -27,7 +27,7 @@ To get Earthwatchers running on your machine, install Node.js (http://nodejs.org
 # Development
 
 ```
-git clone https://github.com/Geodan/Earthwatchers.git
+git clone https://github.com/gpi-it/Earthwatchers.git
 
 cd earthwatchers\src
 
